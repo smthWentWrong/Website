@@ -8,6 +8,7 @@ namespace TRPZMVCSimple
     {
         public void Configuration(IAppBuilder app)
         {
+        	//enter point
             ConfigureAuth(app);
         }
     }
